@@ -1,0 +1,1 @@
+"localhost:port/camel/hello" 
